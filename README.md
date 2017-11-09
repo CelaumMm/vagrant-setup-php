@@ -35,7 +35,7 @@ Modo de Uso
 
 A instalação inicial pode ser feita de duas formas, sendo:
 
-1º -> Caso tenha o Git instaldo em sua máquina, proceda da seguinte forma:
+1º) Caso tenha o Git instaldo em sua máquina, proceda da seguinte forma:
 
 
 
@@ -52,7 +52,7 @@ A instalação inicial pode ser feita de duas formas, sendo:
 
 
 
-2º -> Caso não tenha o Git instalado em sua máquina, acesse https://github.com/CelaumMm/vagrant-setup-php baixe o arquivo do projeto no formato .zip e descompacte-o onde desejar.
+2º) Caso não tenha o Git instalado em sua máquina, acesse https://github.com/CelaumMm/vagrant-setup-php baixe o arquivo do projeto no formato .zip e descompacte-o onde desejar.
 
 * Abra seu Prompt/Terminal , acesse o diretorio que acabou de descompactar e rode o comando:
 
@@ -86,14 +86,15 @@ Caso queira destruir a máquina virtual (o conteúdo do www não será excluido)
 - vagrant destroy
 
 
-3º -> Editar o arquivo hots do seu windows no caminho C:\Windows\System32\drivers\etc\hosts
+3º) (Opicional) Editar o arquivo hots do seu windows no caminho C:\Windows\System32\drivers\etc\hosts
 
-- Adicionar a linha abaixo 
--- 192.168.33.10 phpmyadmin.dev
--- 192.168.33.10 projeto.dev
+Adicionar as linhas abaixo 
 
-- Acessar no navegador da sua maquina
+- 192.168.33.10 phpmyadmin.dev
+- 192.168.33.10 projeto.dev
 
--> phpmyadmin.dev
+4°) (Opicional) Acessar no navegador da sua maquina
 
--> projeto.dev
+- http://phpmyadmin.dev
+
+- http://projeto.dev
