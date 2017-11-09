@@ -94,6 +94,6 @@ Caso queira destruir a máquina virtual (o conteúdo do www não será excluido)
 
 - Acessar no navegador da sua maquina
 
--- phpmyadmin.dev
+-> phpmyadmin.dev
 
--- projeto.dev
+-> projeto.dev
