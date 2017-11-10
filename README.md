@@ -98,3 +98,7 @@ Adicionar as linhas abaixo
 - http://phpmyadmin.dev
 
 - http://projeto.dev
+
+5°) (Opicional) Acessar seu servidor via SSH, abra o Git Bash
+ssh vagrant@192.168.33.10
+senha: vagrant
